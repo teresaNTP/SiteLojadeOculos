@@ -5,4 +5,7 @@ Feito com base no Projeto Final do Curso Prático da IBM - HTML5, CSS3, JS + Boo
 GitHub Pages: https://teresantp.github.io/SiteLojadeOculos/
 
 
-![image](https://user-images.githubusercontent.com/99503156/183272711-25311d1a-d8bb-4049-be26-c832119f330c.png)
+
+
+![image](https://user-images.githubusercontent.com/99503156/183272721-ae981130-5857-4357-b212-ac23a5f4202d.png)
+
